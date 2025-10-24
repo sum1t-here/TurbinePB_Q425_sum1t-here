@@ -22,13 +22,13 @@ TurbinePB_Q425_sum1t-here/
 
 ```bash
 # Hello World
-cd HelloWorld && rustc main.rs && ./main 
+cd hello-world && rustc main.rs && ./main 
 
 # Counter
-cd RustCounter && cargo run
+cd rust-counter && cargo run
 
 # RNG Game
-cd RngGame && cargo run
+cd rng-game && cargo run
 ```
 
 ### Solana Anchor Program
@@ -39,13 +39,3 @@ anchor build
 anchor test
 anchor deploy
 ```
-
-### Rust Book Programs Completed
-- ✅ Hello World
-- ✅ Counter
-- ✅ Guessing Game (RNG)
-
-### Solana Implementation
-- Status: [In Progress/Completed]
-- Local validator: [Running/Not Running]
-- Program deployed: [Yes/No]
