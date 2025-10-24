@@ -34,7 +34,7 @@ cd rng-game && cargo run
 ### Solana Anchor Program
 
 ```bash
-cd SolanaCounter
+cd solana-counter
 anchor build
 anchor test
 anchor deploy
