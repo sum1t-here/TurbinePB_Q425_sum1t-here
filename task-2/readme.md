@@ -1,5 +1,13 @@
 ## Task 2
 
+### Token-Mint:
+    - Token Name: Booze
+    - Network: Devnet
+    - Mint Address: G2LtzXrujN5pS49tSYKpubcCVXAJti9DCWe1cS788CAo
+    - Tx Hash: xHLNGuKH5AvvtHr5TvFc4bpb6iJ3S7caGG68RNvvdvqhsTktP3e3EL44waiEFePWZuEB9jPEpNm1Sj8jjxcuskR
+    - Screenshot
+    
+
 ### Vault-Savings:
     - Deployment Hash (Program ID): 
         - AwFnaY3xnDaG6MX1JZfpkrTgU8uS12nX4HAMpFz5u4a9
