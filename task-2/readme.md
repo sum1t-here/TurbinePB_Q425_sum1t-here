@@ -26,10 +26,4 @@
     <img width="1137" height="721" alt="Screenshot 2025-11-03 at 4 56 58 AM" src="https://github.com/user-attachments/assets/4ad3ad4d-027c-4918-ace1-2df1b5727c5b" />
 
 ### Escrow Program
-- Transactions
-    - Initialize Escrow Tx: `<PASTE_TX_HASH>`
-    - Screenshot
-    - Deposit Tokens to Escrow Tx: `<PASTE_TX_HASH>`
-    - Screenshot
-    - Release Tokens Tx: `<PASTE_TX_HASH>`
-    - Screenshot
+<img width="962" height="216" alt="Screenshot 2025-11-04 at 10 59 10 PM" src="https://github.com/user-attachments/assets/0e70d7ee-609b-4cac-a00a-5cf72543267b" />
