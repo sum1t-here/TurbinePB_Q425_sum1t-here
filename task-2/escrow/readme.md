@@ -193,15 +193,6 @@ anchor test
 ```bash
 anchor deploy --provider.cluster devnet
 ```
-
----
-
-## 🏗️ Project Structure
-
-```
-
-```
-
 ---
 
 ## 🔐 Security Considerations
