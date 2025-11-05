@@ -1,0 +1,22 @@
+{
+  "name": "task-3",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "nft_image": "ts-node nft_mint/nft_image.ts",
+    "nft_metadata": "ts-node nft_mint/nft_metadata.ts",
+    "nft_mint": "ts-node nft_mint/nft_mint.ts"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
+    "@metaplex-foundation/umi": "^1.4.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.4.1",
+    "@metaplex-foundation/umi-uploader-irys": "^1.4.1",
+    "@types/node": "^24.10.0",
+    "bs58": "^6.0.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
