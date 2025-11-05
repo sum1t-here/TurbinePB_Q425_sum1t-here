@@ -17,11 +17,11 @@ umi.use(signerIdentity(signer));
         // Follow this JSON structure
         // https://docs.metaplex.com/programs/token-metadata/changelog/v1.0#json-structure
 
-        const image = "https://devnet.irys.xyz/2J7XeWjrm5Js9hoLBXgTStMuYCRx38L8ZWG8uATePX65";
+        const image = "https://gateway.irys.xyz/4ZWyFEt4o1SjJCHC9aZLBg4GctCwXG2wi3zJaetGvu5c";
         const metadata = {
-            name: "Vintage Rug",
-            symbol: "VRUG",
-            description: "Rug generated from rug day",
+            name: "Shiba Inu",
+            symbol: "SHIB",
+            description: "A cute shib to make your day",
             image,
             attributes: [
                 {trait_type: "Rarity", value: "Rare"},
@@ -44,3 +44,5 @@ umi.use(signerIdentity(signer));
         console.log("Oops.. Something went wrong", error);
     }
 })();
+
+// Your metadata URI:  https://gateway.irys.xyz/DZanK7itTfWLPZ6E6K37X8f8YeGHRhrkZTJFjVQe9SkS

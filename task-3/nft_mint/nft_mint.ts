@@ -19,7 +19,7 @@ const mint = generateSigner(umi);
         mint,
         name: "Vintage Rug",
         symbol: "VRUG",
-        uri: "https://gateway.irys.xyz/2twRUr9LKZF4Niy9KMaBzpwMBbVFS9J7o4YDLbqDc6Q8",
+        uri: "https://gateway.irys.xyz/DZanK7itTfWLPZ6E6K37X8f8YeGHRhrkZTJFjVQe9SkS",
         sellerFeeBasisPoints: percentAmount(10)
     });
     let result = await tx.sendAndConfirm(umi);
@@ -29,3 +29,7 @@ const mint = generateSigner(umi);
 
     console.log("Mint Address: ", mint.publicKey);
 })();
+
+// Succesfully Minted! Check out your TX here:
+// https://explorer.solana.com/tx/4Hq2A2BS87N1EnKt7Rs37t9B1urm2RKsUdmKcXjL8fRLp7xLVuKD9fEfn5HdQKYTYpzUaxgcTUwTTEd1uau2sak2?cluster=devnet
+// Mint Address:  H5HePwxLXaZh8etX8mz1c7FjSV2PCg8WpieY3tMVVATz
